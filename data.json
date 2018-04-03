@@ -1,0 +1,22 @@
+{
+  "career":{
+    "info":"To get into the creative and challenging job."
+  },
+  "education":[
+    {
+      "degree":"SSC",
+      "school":"school name",
+      "data":["2013","80%"],
+    },
+    {
+      "degree":"INTERMEDIATE",
+      "school":"college name",
+      "data":["2015","93%"],
+    },
+    {
+      "degree":"GRADUATION",
+      "school":"COLLEGE NAME",
+      "data":["2019","80%"],
+    }
+  ]
+  }
