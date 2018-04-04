@@ -5,18 +5,40 @@
   "education":[
     {
       "degree":"SSC",
-      "school":"school name",
-      "data":["2013","80%"],
+      "school":"Vidya Mandir CBSE High School",
+      "data":["2013","80%"]
     },
     {
       "degree":"INTERMEDIATE",
-      "school":"college name",
-      "data":["2015","93%"],
+      "school":"Sree Chaithanya Childrens Academy",
+      "data":["2015","93%"]
     },
     {
-      "degree":"GRADUATION",
-      "school":"COLLEGE NAME",
-      "data":["2019","80%"],
+      "degree":"BTech",
+      "school":"Sree Vidyanikethan Engineering College",
+      "data":["2019","80%"]
     }
+  ],
+  "skills":[
+      {
+        "name":"operating system",
+        "info":["windows","Fedora","ubuntu","redHat"]
+        },
+        {
+          "name":"Languages",
+          "info":["C","java","python","c++"]
+          },
+          {
+            "name":"Databases",
+            "info":["Oracle","MySql","mongoDB","cybase"]
+            },
+            {
+              "name":"Web Technologies",
+              "info":["HTML","javascript","CSS","php"]
+            },
+            {
+              "name":"FrameWorks",
+              "info":["Bootstrap",".net"]
+            }
   ]
   }
